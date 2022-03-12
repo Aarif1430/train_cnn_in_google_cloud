@@ -42,7 +42,7 @@ opencv-contrib-python==4.1.2.30
 opencv-python==4.1.2.30
 opt-einsum==3.1.0
 pandas==0.25.3
-Pillow==6.2.1
+Pillow==9.0.1
 progressbar==2.5
 progressbar33==2.4
 protobuf==3.11.1
